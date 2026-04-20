@@ -59,4 +59,6 @@ it uses software architecture to streamline operations.
 -Java(Spring Boot)
 
 
-# MOCK INTERVIEW
+## MOCK INTERVIEW
+
+[Watch my mock interview](https://youtube.com/shorts/YoiK3Q2hhfk)
