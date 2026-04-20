@@ -57,3 +57,6 @@ it uses software architecture to streamline operations.
 -Python
 -MySQL
 -Java(Spring Boot)
+
+
+# MOCK INTERVIEW
