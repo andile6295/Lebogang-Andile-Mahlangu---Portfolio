@@ -62,3 +62,17 @@ it uses software architecture to streamline operations.
 ## MOCK INTERVIEW
 
 [Watch my mock interview](https://youtube.com/shorts/YoiK3Q2hhfk)
+
+## EVIDENCE
+
+**See my screenchots for Student Enrolment System**
+
+<img width="517" height="382" alt="EnrollSystem" src="https://github.com/user-attachments/assets/fd04390a-2a0d-459b-b4de-115283d3af76" />
+<img width="997" height="753" alt="Enroll" src="https://github.com/user-attachments/assets/670fd50f-1f42-44f7-ae47-b99b4cfa14af" />
+
+**See my screenchots for Café Order System**
+
+<img width="1182" height="1080" alt="Code 1" src="https://github.com/user-attachments/assets/2cc17961-9a68-45d0-85d7-a48c01f40c61" />
+<img width="676" height="814" alt="c" src="https://github.com/user-attachments/assets/7260e202-a547-4bd3-84d2-1a6da2d74972" />
+<img width="1183" height="1080" alt="Code 2" src="https://github.com/user-attachments/assets/517d5f41-4173-4b9b-aa54-a4dd926762f7" />
+
