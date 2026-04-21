@@ -65,14 +65,20 @@ it uses software architecture to streamline operations.
 
 ## EVIDENCE
 
-**See my screenchots for Student Enrolment System**
+**See my screenchots for part of the Student Enrolment System**
 
 <img width="517" height="382" alt="EnrollSystem" src="https://github.com/user-attachments/assets/fd04390a-2a0d-459b-b4de-115283d3af76" />
 <img width="997" height="753" alt="Enroll" src="https://github.com/user-attachments/assets/670fd50f-1f42-44f7-ae47-b99b4cfa14af" />
 
-**See my screenchots for Café Order System**
+**See my screenchots for part of the Café Order System**
 
 <img width="1182" height="1080" alt="Code 1" src="https://github.com/user-attachments/assets/2cc17961-9a68-45d0-85d7-a48c01f40c61" />
 <img width="676" height="814" alt="c" src="https://github.com/user-attachments/assets/7260e202-a547-4bd3-84d2-1a6da2d74972" />
 <img width="1183" height="1080" alt="Code 2" src="https://github.com/user-attachments/assets/517d5f41-4173-4b9b-aa54-a4dd926762f7" />
+
+**See my screenshots for part of the Smart Parking System**
+
+<img width="1182" height="916" alt="Screenshot 2026-04-21 174854" src="https://github.com/user-attachments/assets/5ca2854c-4217-42cd-b24e-a56d16866d37" />
+<img width="1192" height="936" alt="Screenshot 2026-04-21 174951" src="https://github.com/user-attachments/assets/27657191-e4cb-4beb-bdc0-eb7220d2fb10" />
+
 
